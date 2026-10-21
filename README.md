@@ -17,6 +17,7 @@ All of these are some of my works, hope you enjoy it!. note: It's not much, but 
 °[JAKLOZ](https://jakloz.com)
 
 A page by a contructor company from my local city.
+<img width="1917" height="878" alt="image" src="https://github.com/user-attachments/assets/e22acc3d-dd0a-4f8f-a773-371d789719e5" />
 
 
 
